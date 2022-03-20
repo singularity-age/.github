@@ -1,12 +1,7 @@
-## Hi there 👋
+<div dir="rtl">
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ ## شرکت برنامه‌نویسی عصر شگرف
+  
+  شرکت برنامه نویسی عصر شگرف، فعال در حوزه‌ی برنامه‌نویسی وب سایت‌ها، اتوماسیون‌ها، پورتال های سازمانی، اپلیکیشن‌ها، تولید محتوا، دیجیتال مارگتینگ می‌باشد. ما با دارا بودن تیم‌های متخصص و باتجربه در زمینه های مختلف تاکنون ایده‌های متفاوتی را دنبال کرده‌ایم و آنها را عملی کرده‌ایم. هدف ما کمک به حوزه‌ی فناوری اطلاعات کشور و رشد خدمات این حوزه هست تا بتوانیم بار این مسئولیت را به دوش بکشیم و رضایت کاربران مان را تا حد ممکن جلب کنیم.
+  
+</div>
